@@ -1,0 +1,2566 @@
+
+                <table align="center" width="99%" border="1" bordercolor="#EBEBEB" style="border-collapse: collapse"
+                    cellspacing="0">
+                    <tr bgcolor="#82b4ff">
+                        <td align="center" rowspan="2">
+                            <b>
+                                S.No</b>
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            <b>
+                                District</b>
+                        </td>
+                        
+                        <td align="center" colspan="2">
+                            <b>
+                                No. of Registered</b>
+                        </td>
+                        <td align="center" colspan="2">
+                            <b>
+                                No. of Jobcard deleted  in current YR</b>
+                        </td>
+                        <td align="center" colspan="2">
+                            <b>
+                                No. of Jobcard included  in current YR</b>
+                        </td>
+                        <td align="center" colspan="4">
+                            <b>
+                                Cumulative No. of HH issued jobcards</b>
+                        </td>
+                        <td align="center" colspan="2">
+                            <b>
+                                Employment demanded </b>
+                        </td>
+                        <td align="center" colspan="2">
+                            <b>
+                                Employment offered</b>
+                        </td>
+                        <td align="center" colspan="5">
+                            <b>
+                                Employment Availed</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>
+                                No. of Families Completed 100 days</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>
+                                No. of HH which are beneficiary of land reform/IAY</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>
+                                No. of Disabled beneficiary individuals</b>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#82b4ff">
+                        
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        
+                        <td align="center">
+                            <b>
+                                SCs</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                STs</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Others
+                            </b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Total
+                            </b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Household</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persons</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Total Persondays</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persondays of Central Liability</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                Persondays of States Liability</b>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#82b4ff" align="center">
+                        
+                        <td>
+                            1
+                        </td>
+                        
+                        <td>
+                            2
+                        </td>
+                        
+                        <td>
+                            3
+                        </td>
+                        
+                        <td>
+                            4
+                        </td>
+                        
+                        <td>
+                            5
+                        </td>
+                        
+                        <td>
+                            6
+                        </td>
+                        
+                        <td>
+                            7
+                        </td>
+                        
+                        <td>
+                            8
+                        </td>
+                        
+                        <td>
+                            9
+                        </td>
+                        
+                        <td>
+                            10
+                        </td>
+                        
+                        <td>
+                            11
+                        </td>
+                        
+                        <td>
+                            12
+                        </td>
+                        
+                        <td>
+                            13
+                        </td>
+                        
+                        <td>
+                            14
+                        </td>
+                        
+                        <td>
+                            15
+                        </td>
+                        
+                        <td>
+                            16
+                        </td>
+                        
+                        <td>
+                            17
+                        </td>
+                        
+                        <td>
+                            18
+                        </td>
+                        
+                        <td>
+                            19
+                        </td>
+                        
+                        <td>
+                            20
+                        </td>
+                        
+                        <td>
+                            21
+                        </td>
+                        
+                        <td>
+                            22
+                        </td>
+                        
+                        <td>
+                            23
+                        </td>
+                        
+                        <td>
+                            24
+                        </td>
+                        
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=ANGUL&district_code=2421&fin_year=2024-2025&source=national&Digest=ep3cRmAIqs/fpGLlxXCzmA'>ANGUL</a>
+                    </td>
+                    <td align="right">
+                        178132
+                    </td>
+                    <td align="right">
+                        299672
+                    </td>
+                    <td align="right">
+                        10963
+                    </td>
+                    <td align="right">
+                        39668
+                    </td>
+                    <td align="right">
+                        12986
+                    </td>
+                    <td align="right">
+                        18810
+                    </td>
+                    <td align="right">
+                        25286
+                    </td>
+                    <td align="right">
+                        23225
+                    </td>
+                    <td align="right">
+                        126889
+                    </td>
+                    <td align="right">
+                        175400
+                    </td>
+                    <td align="right">
+                        51494
+                    </td>
+                    <td align="right">
+                        72307
+                    </td>
+                    <td align="right">
+                        51333
+                    </td>
+                    <td align="right">
+                        72046
+                    </td>
+                    <td align="right">
+                        45248
+                    </td>
+                    <td align="right">
+                        61957
+                    </td>
+                    <td align="right">
+                        1809671
+                    </td>
+                    <td align="right">
+                        1809671
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1092
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        134
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=BALESHWAR&district_code=2405&fin_year=2024-2025&source=national&Digest=ckut+Tq5dJo3rzcF1vOHiw'>BALESHWAR</a>
+                    </td>
+                    <td align="right">
+                        300982
+                    </td>
+                    <td align="right">
+                        470334
+                    </td>
+                    <td align="right">
+                        20769
+                    </td>
+                    <td align="right">
+                        68606
+                    </td>
+                    <td align="right">
+                        51349
+                    </td>
+                    <td align="right">
+                        72403
+                    </td>
+                    <td align="right">
+                        46635
+                    </td>
+                    <td align="right">
+                        23209
+                    </td>
+                    <td align="right">
+                        217716
+                    </td>
+                    <td align="right">
+                        287560
+                    </td>
+                    <td align="right">
+                        63492
+                    </td>
+                    <td align="right">
+                        89327
+                    </td>
+                    <td align="right">
+                        63161
+                    </td>
+                    <td align="right">
+                        88830
+                    </td>
+                    <td align="right">
+                        55820
+                    </td>
+                    <td align="right">
+                        76394
+                    </td>
+                    <td align="right">
+                        2015498
+                    </td>
+                    <td align="right">
+                        2015498
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        225
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        189
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=BARGARH&district_code=2414&fin_year=2024-2025&source=national&Digest=lA9bz80Xlkau8zrn6sz7eA'>BARGARH</a>
+                    </td>
+                    <td align="right">
+                        196979
+                    </td>
+                    <td align="right">
+                        349063
+                    </td>
+                    <td align="right">
+                        7298
+                    </td>
+                    <td align="right">
+                        29867
+                    </td>
+                    <td align="right">
+                        15010
+                    </td>
+                    <td align="right">
+                        24964
+                    </td>
+                    <td align="right">
+                        36110
+                    </td>
+                    <td align="right">
+                        42421
+                    </td>
+                    <td align="right">
+                        113917
+                    </td>
+                    <td align="right">
+                        192448
+                    </td>
+                    <td align="right">
+                        69676
+                    </td>
+                    <td align="right">
+                        114167
+                    </td>
+                    <td align="right">
+                        69563
+                    </td>
+                    <td align="right">
+                        113986
+                    </td>
+                    <td align="right">
+                        54569
+                    </td>
+                    <td align="right">
+                        84700
+                    </td>
+                    <td align="right">
+                        2299270
+                    </td>
+                    <td align="right">
+                        2134540
+                    </td>
+                    <td align="right">
+                        164730
+                    </td>
+                    <td align="right">
+                        3566
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        176
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=BHADRAK&district_code=2417&fin_year=2024-2025&source=national&Digest=zM+FJP+XA+06atmCwP2Iog'>BHADRAK</a>
+                    </td>
+                    <td align="right">
+                        252604
+                    </td>
+                    <td align="right">
+                        355291
+                    </td>
+                    <td align="right">
+                        9417
+                    </td>
+                    <td align="right">
+                        25870
+                    </td>
+                    <td align="right">
+                        58828
+                    </td>
+                    <td align="right">
+                        77036
+                    </td>
+                    <td align="right">
+                        32625
+                    </td>
+                    <td align="right">
+                        2032
+                    </td>
+                    <td align="right">
+                        203429
+                    </td>
+                    <td align="right">
+                        238086
+                    </td>
+                    <td align="right">
+                        45104
+                    </td>
+                    <td align="right">
+                        60995
+                    </td>
+                    <td align="right">
+                        44604
+                    </td>
+                    <td align="right">
+                        60377
+                    </td>
+                    <td align="right">
+                        37472
+                    </td>
+                    <td align="right">
+                        49648
+                    </td>
+                    <td align="right">
+                        1127913
+                    </td>
+                    <td align="right">
+                        1127913
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        97
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        97
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=BOLANGIR&district_code=2409&fin_year=2024-2025&source=national&Digest=Urgbt9vQt9DtD1617qg/jw'>BOLANGIR</a>
+                    </td>
+                    <td align="right">
+                        298142
+                    </td>
+                    <td align="right">
+                        541565
+                    </td>
+                    <td align="right">
+                        8055
+                    </td>
+                    <td align="right">
+                        40001
+                    </td>
+                    <td align="right">
+                        17739
+                    </td>
+                    <td align="right">
+                        33672
+                    </td>
+                    <td align="right">
+                        47428
+                    </td>
+                    <td align="right">
+                        65525
+                    </td>
+                    <td align="right">
+                        179904
+                    </td>
+                    <td align="right">
+                        292857
+                    </td>
+                    <td align="right">
+                        147596
+                    </td>
+                    <td align="right">
+                        254175
+                    </td>
+                    <td align="right">
+                        147527
+                    </td>
+                    <td align="right">
+                        254035
+                    </td>
+                    <td align="right">
+                        129588
+                    </td>
+                    <td align="right">
+                        213949
+                    </td>
+                    <td align="right">
+                        6697283
+                    </td>
+                    <td align="right">
+                        5941269
+                    </td>
+                    <td align="right">
+                        756014
+                    </td>
+                    <td align="right">
+                        14807
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        485
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=BOUDH&district_code=2426&fin_year=2024-2025&source=national&Digest=cPxyETMFgHNuY0qDuTUmrA'>BOUDH</a>
+                    </td>
+                    <td align="right">
+                        95901
+                    </td>
+                    <td align="right">
+                        168079
+                    </td>
+                    <td align="right">
+                        3016
+                    </td>
+                    <td align="right">
+                        15550
+                    </td>
+                    <td align="right">
+                        3056
+                    </td>
+                    <td align="right">
+                        5712
+                    </td>
+                    <td align="right">
+                        20318
+                    </td>
+                    <td align="right">
+                        10454
+                    </td>
+                    <td align="right">
+                        64764
+                    </td>
+                    <td align="right">
+                        95536
+                    </td>
+                    <td align="right">
+                        39779
+                    </td>
+                    <td align="right">
+                        63172
+                    </td>
+                    <td align="right">
+                        39699
+                    </td>
+                    <td align="right">
+                        63032
+                    </td>
+                    <td align="right">
+                        34697
+                    </td>
+                    <td align="right">
+                        53697
+                    </td>
+                    <td align="right">
+                        1366462
+                    </td>
+                    <td align="right">
+                        1366462
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        506
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        37
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=CUTTACK&district_code=2406&fin_year=2024-2025&source=national&Digest=kqjzrtS892s9EQ2jMBmVsw'>CUTTACK</a>
+                    </td>
+                    <td align="right">
+                        214676
+                    </td>
+                    <td align="right">
+                        387213
+                    </td>
+                    <td align="right">
+                        3942
+                    </td>
+                    <td align="right">
+                        27857
+                    </td>
+                    <td align="right">
+                        13287
+                    </td>
+                    <td align="right">
+                        21043
+                    </td>
+                    <td align="right">
+                        43493
+                    </td>
+                    <td align="right">
+                        10092
+                    </td>
+                    <td align="right">
+                        157457
+                    </td>
+                    <td align="right">
+                        211042
+                    </td>
+                    <td align="right">
+                        24810
+                    </td>
+                    <td align="right">
+                        37230
+                    </td>
+                    <td align="right">
+                        24678
+                    </td>
+                    <td align="right">
+                        37008
+                    </td>
+                    <td align="right">
+                        20879
+                    </td>
+                    <td align="right">
+                        30165
+                    </td>
+                    <td align="right">
+                        602741
+                    </td>
+                    <td align="right">
+                        602741
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        95
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=DEOGARH&district_code=2416&fin_year=2024-2025&source=national&Digest=79ga2RZOddPGZ3UHFzlP4w'>DEOGARH</a>
+                    </td>
+                    <td align="right">
+                        67399
+                    </td>
+                    <td align="right">
+                        119741
+                    </td>
+                    <td align="right">
+                        1779
+                    </td>
+                    <td align="right">
+                        9963
+                    </td>
+                    <td align="right">
+                        2921
+                    </td>
+                    <td align="right">
+                        5544
+                    </td>
+                    <td align="right">
+                        10553
+                    </td>
+                    <td align="right">
+                        22739
+                    </td>
+                    <td align="right">
+                        33231
+                    </td>
+                    <td align="right">
+                        66523
+                    </td>
+                    <td align="right">
+                        29506
+                    </td>
+                    <td align="right">
+                        46023
+                    </td>
+                    <td align="right">
+                        29449
+                    </td>
+                    <td align="right">
+                        45927
+                    </td>
+                    <td align="right">
+                        26305
+                    </td>
+                    <td align="right">
+                        40273
+                    </td>
+                    <td align="right">
+                        1124558
+                    </td>
+                    <td align="right">
+                        1124558
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        915
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        165
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=DHENKANAL&district_code=2407&fin_year=2024-2025&source=national&Digest=koqXk/LYTnqc+u4rQY5zPw'>DHENKANAL</a>
+                    </td>
+                    <td align="right">
+                        204118
+                    </td>
+                    <td align="right">
+                        344920
+                    </td>
+                    <td align="right">
+                        6308
+                    </td>
+                    <td align="right">
+                        22388
+                    </td>
+                    <td align="right">
+                        8882
+                    </td>
+                    <td align="right">
+                        13341
+                    </td>
+                    <td align="right">
+                        39750
+                    </td>
+                    <td align="right">
+                        29791
+                    </td>
+                    <td align="right">
+                        132426
+                    </td>
+                    <td align="right">
+                        201967
+                    </td>
+                    <td align="right">
+                        54870
+                    </td>
+                    <td align="right">
+                        75569
+                    </td>
+                    <td align="right">
+                        54671
+                    </td>
+                    <td align="right">
+                        75271
+                    </td>
+                    <td align="right">
+                        49580
+                    </td>
+                    <td align="right">
+                        67321
+                    </td>
+                    <td align="right">
+                        2026852
+                    </td>
+                    <td align="right">
+                        2026852
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        976
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        118
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=GAJAPATI&district_code=2424&fin_year=2024-2025&source=national&Digest=3pqJf9AVr8IH8fmyyMDwNg'>GAJAPATI</a>
+                    </td>
+                    <td align="right">
+                        114217
+                    </td>
+                    <td align="right">
+                        204398
+                    </td>
+                    <td align="right">
+                        3548
+                    </td>
+                    <td align="right">
+                        18016
+                    </td>
+                    <td align="right">
+                        7828
+                    </td>
+                    <td align="right">
+                        14946
+                    </td>
+                    <td align="right">
+                        7592
+                    </td>
+                    <td align="right">
+                        69492
+                    </td>
+                    <td align="right">
+                        35176
+                    </td>
+                    <td align="right">
+                        112260
+                    </td>
+                    <td align="right">
+                        62153
+                    </td>
+                    <td align="right">
+                        95620
+                    </td>
+                    <td align="right">
+                        62091
+                    </td>
+                    <td align="right">
+                        95499
+                    </td>
+                    <td align="right">
+                        55151
+                    </td>
+                    <td align="right">
+                        82313
+                    </td>
+                    <td align="right">
+                        2547254
+                    </td>
+                    <td align="right">
+                        2462382
+                    </td>
+                    <td align="right">
+                        84872
+                    </td>
+                    <td align="right">
+                        3973
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        150
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=GANJAM&district_code=2412&fin_year=2024-2025&source=national&Digest=y1+n3hxE/22eQNFt5KVqrg'>GANJAM</a>
+                    </td>
+                    <td align="right">
+                        445384
+                    </td>
+                    <td align="right">
+                        637803
+                    </td>
+                    <td align="right">
+                        28501
+                    </td>
+                    <td align="right">
+                        93603
+                    </td>
+                    <td align="right">
+                        11839
+                    </td>
+                    <td align="right">
+                        16205
+                    </td>
+                    <td align="right">
+                        73527
+                    </td>
+                    <td align="right">
+                        21011
+                    </td>
+                    <td align="right">
+                        347396
+                    </td>
+                    <td align="right">
+                        441934
+                    </td>
+                    <td align="right">
+                        168188
+                    </td>
+                    <td align="right">
+                        199043
+                    </td>
+                    <td align="right">
+                        167806
+                    </td>
+                    <td align="right">
+                        198571
+                    </td>
+                    <td align="right">
+                        128677
+                    </td>
+                    <td align="right">
+                        148226
+                    </td>
+                    <td align="right">
+                        4650054
+                    </td>
+                    <td align="right">
+                        4650054
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1967
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        245
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=JAGATSINGHAPUR&district_code=2419&fin_year=2024-2025&source=national&Digest=iL26IOqqjj2vXd+joyCJ7A'>JAGATSINGHAPUR</a>
+                    </td>
+                    <td align="right">
+                        136486
+                    </td>
+                    <td align="right">
+                        217783
+                    </td>
+                    <td align="right">
+                        5306
+                    </td>
+                    <td align="right">
+                        20952
+                    </td>
+                    <td align="right">
+                        15255
+                    </td>
+                    <td align="right">
+                        22881
+                    </td>
+                    <td align="right">
+                        23434
+                    </td>
+                    <td align="right">
+                        573
+                    </td>
+                    <td align="right">
+                        110190
+                    </td>
+                    <td align="right">
+                        134197
+                    </td>
+                    <td align="right">
+                        25275
+                    </td>
+                    <td align="right">
+                        37932
+                    </td>
+                    <td align="right">
+                        25037
+                    </td>
+                    <td align="right">
+                        37521
+                    </td>
+                    <td align="right">
+                        21651
+                    </td>
+                    <td align="right">
+                        31704
+                    </td>
+                    <td align="right">
+                        581210
+                    </td>
+                    <td align="right">
+                        581210
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=JAJPUR&district_code=2420&fin_year=2024-2025&source=national&Digest=g/tdHr/LHjQUfPxMsAz6lQ'>JAJPUR</a>
+                    </td>
+                    <td align="right">
+                        218837
+                    </td>
+                    <td align="right">
+                        324767
+                    </td>
+                    <td align="right">
+                        17523
+                    </td>
+                    <td align="right">
+                        52845
+                    </td>
+                    <td align="right">
+                        20228
+                    </td>
+                    <td align="right">
+                        26356
+                    </td>
+                    <td align="right">
+                        45587
+                    </td>
+                    <td align="right">
+                        12973
+                    </td>
+                    <td align="right">
+                        154628
+                    </td>
+                    <td align="right">
+                        213188
+                    </td>
+                    <td align="right">
+                        37053
+                    </td>
+                    <td align="right">
+                        49703
+                    </td>
+                    <td align="right">
+                        36915
+                    </td>
+                    <td align="right">
+                        49506
+                    </td>
+                    <td align="right">
+                        32829
+                    </td>
+                    <td align="right">
+                        43274
+                    </td>
+                    <td align="right">
+                        1040960
+                    </td>
+                    <td align="right">
+                        1040960
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        217
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        86
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=JHARSUGUDA&district_code=2415&fin_year=2024-2025&source=national&Digest=4PdZou2AuQb0EGQGwXz3Hg'>JHARSUGUDA</a>
+                    </td>
+                    <td align="right">
+                        64926
+                    </td>
+                    <td align="right">
+                        118109
+                    </td>
+                    <td align="right">
+                        1360
+                    </td>
+                    <td align="right">
+                        7617
+                    </td>
+                    <td align="right">
+                        2197
+                    </td>
+                    <td align="right">
+                        3685
+                    </td>
+                    <td align="right">
+                        13288
+                    </td>
+                    <td align="right">
+                        27291
+                    </td>
+                    <td align="right">
+                        23917
+                    </td>
+                    <td align="right">
+                        64496
+                    </td>
+                    <td align="right">
+                        23689
+                    </td>
+                    <td align="right">
+                        35524
+                    </td>
+                    <td align="right">
+                        23665
+                    </td>
+                    <td align="right">
+                        35479
+                    </td>
+                    <td align="right">
+                        20901
+                    </td>
+                    <td align="right">
+                        30500
+                    </td>
+                    <td align="right">
+                        887637
+                    </td>
+                    <td align="right">
+                        887637
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        997
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        41
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KALAHANDI&district_code=2410&fin_year=2024-2025&source=national&Digest=tPLrYNx+w1xshw7s4yOleA'>KALAHANDI</a>
+                    </td>
+                    <td align="right">
+                        283428
+                    </td>
+                    <td align="right">
+                        492416
+                    </td>
+                    <td align="right">
+                        11286
+                    </td>
+                    <td align="right">
+                        52005
+                    </td>
+                    <td align="right">
+                        17800
+                    </td>
+                    <td align="right">
+                        32804
+                    </td>
+                    <td align="right">
+                        48472
+                    </td>
+                    <td align="right">
+                        87236
+                    </td>
+                    <td align="right">
+                        143964
+                    </td>
+                    <td align="right">
+                        279672
+                    </td>
+                    <td align="right">
+                        147118
+                    </td>
+                    <td align="right">
+                        243181
+                    </td>
+                    <td align="right">
+                        146944
+                    </td>
+                    <td align="right">
+                        242908
+                    </td>
+                    <td align="right">
+                        125757
+                    </td>
+                    <td align="right">
+                        202047
+                    </td>
+                    <td align="right">
+                        7059855
+                    </td>
+                    <td align="right">
+                        5967142
+                    </td>
+                    <td align="right">
+                        1092713
+                    </td>
+                    <td align="right">
+                        17035
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        361
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KANDHAMAL&district_code=2408&fin_year=2024-2025&source=national&Digest=Qz/KCn+hZe2Fd2Cou8K3ZA'>KANDHAMAL</a>
+                    </td>
+                    <td align="right">
+                        159735
+                    </td>
+                    <td align="right">
+                        264418
+                    </td>
+                    <td align="right">
+                        7655
+                    </td>
+                    <td align="right">
+                        27046
+                    </td>
+                    <td align="right">
+                        10409
+                    </td>
+                    <td align="right">
+                        17422
+                    </td>
+                    <td align="right">
+                        35099
+                    </td>
+                    <td align="right">
+                        85350
+                    </td>
+                    <td align="right">
+                        36466
+                    </td>
+                    <td align="right">
+                        156915
+                    </td>
+                    <td align="right">
+                        129451
+                    </td>
+                    <td align="right">
+                        200627
+                    </td>
+                    <td align="right">
+                        129441
+                    </td>
+                    <td align="right">
+                        200591
+                    </td>
+                    <td align="right">
+                        124252
+                    </td>
+                    <td align="right">
+                        190402
+                    </td>
+                    <td align="right">
+                        8224930
+                    </td>
+                    <td align="right">
+                        7723771
+                    </td>
+                    <td align="right">
+                        501159
+                    </td>
+                    <td align="right">
+                        24113
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        3390
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KENDRAPARA&district_code=2418&fin_year=2024-2025&source=national&Digest=AZnfKtFqtRzFdsDrHwzT4Q'>KENDRAPARA</a>
+                    </td>
+                    <td align="right">
+                        215702
+                    </td>
+                    <td align="right">
+                        349680
+                    </td>
+                    <td align="right">
+                        7815
+                    </td>
+                    <td align="right">
+                        37471
+                    </td>
+                    <td align="right">
+                        21051
+                    </td>
+                    <td align="right">
+                        29731
+                    </td>
+                    <td align="right">
+                        37154
+                    </td>
+                    <td align="right">
+                        1096
+                    </td>
+                    <td align="right">
+                        169704
+                    </td>
+                    <td align="right">
+                        207954
+                    </td>
+                    <td align="right">
+                        26188
+                    </td>
+                    <td align="right">
+                        36745
+                    </td>
+                    <td align="right">
+                        25938
+                    </td>
+                    <td align="right">
+                        36384
+                    </td>
+                    <td align="right">
+                        21399
+                    </td>
+                    <td align="right">
+                        29191
+                    </td>
+                    <td align="right">
+                        617234
+                    </td>
+                    <td align="right">
+                        617234
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        103
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KENDUJHAR&district_code=2403&fin_year=2024-2025&source=national&Digest=WlaP5Wmgn7GTV4k1XuZgJg'>KENDUJHAR</a>
+                    </td>
+                    <td align="right">
+                        320620
+                    </td>
+                    <td align="right">
+                        544375
+                    </td>
+                    <td align="right">
+                        10870
+                    </td>
+                    <td align="right">
+                        61030
+                    </td>
+                    <td align="right">
+                        10514
+                    </td>
+                    <td align="right">
+                        18018
+                    </td>
+                    <td align="right">
+                        35489
+                    </td>
+                    <td align="right">
+                        144573
+                    </td>
+                    <td align="right">
+                        134608
+                    </td>
+                    <td align="right">
+                        314670
+                    </td>
+                    <td align="right">
+                        136850
+                    </td>
+                    <td align="right">
+                        203821
+                    </td>
+                    <td align="right">
+                        136737
+                    </td>
+                    <td align="right">
+                        203622
+                    </td>
+                    <td align="right">
+                        125841
+                    </td>
+                    <td align="right">
+                        182146
+                    </td>
+                    <td align="right">
+                        5238129
+                    </td>
+                    <td align="right">
+                        5238129
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4229
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        419
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KHORDHA&district_code=2423&fin_year=2024-2025&source=national&Digest=iQc36NicryN41UG5ccsXjQ'>KHORDHA</a>
+                    </td>
+                    <td align="right">
+                        112128
+                    </td>
+                    <td align="right">
+                        193573
+                    </td>
+                    <td align="right">
+                        8012
+                    </td>
+                    <td align="right">
+                        37705
+                    </td>
+                    <td align="right">
+                        3607
+                    </td>
+                    <td align="right">
+                        4962
+                    </td>
+                    <td align="right">
+                        16183
+                    </td>
+                    <td align="right">
+                        7160
+                    </td>
+                    <td align="right">
+                        87647
+                    </td>
+                    <td align="right">
+                        110990
+                    </td>
+                    <td align="right">
+                        21200
+                    </td>
+                    <td align="right">
+                        29914
+                    </td>
+                    <td align="right">
+                        21076
+                    </td>
+                    <td align="right">
+                        29716
+                    </td>
+                    <td align="right">
+                        18486
+                    </td>
+                    <td align="right">
+                        25714
+                    </td>
+                    <td align="right">
+                        592377
+                    </td>
+                    <td align="right">
+                        592377
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        324
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        72
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=KORAPUT&district_code=2411&fin_year=2024-2025&source=national&Digest=d6OAZtp0qWSJfG1iUtdH9w'>KORAPUT</a>
+                    </td>
+                    <td align="right">
+                        264618
+                    </td>
+                    <td align="right">
+                        395057
+                    </td>
+                    <td align="right">
+                        14847
+                    </td>
+                    <td align="right">
+                        50068
+                    </td>
+                    <td align="right">
+                        17548
+                    </td>
+                    <td align="right">
+                        24050
+                    </td>
+                    <td align="right">
+                        35054
+                    </td>
+                    <td align="right">
+                        142330
+                    </td>
+                    <td align="right">
+                        82478
+                    </td>
+                    <td align="right">
+                        259862
+                    </td>
+                    <td align="right">
+                        146308
+                    </td>
+                    <td align="right">
+                        196507
+                    </td>
+                    <td align="right">
+                        146172
+                    </td>
+                    <td align="right">
+                        196256
+                    </td>
+                    <td align="right">
+                        121782
+                    </td>
+                    <td align="right">
+                        159078
+                    </td>
+                    <td align="right">
+                        6019420
+                    </td>
+                    <td align="right">
+                        5891487
+                    </td>
+                    <td align="right">
+                        127933
+                    </td>
+                    <td align="right">
+                        9095
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        541
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=MALKANGIRI&district_code=2431&fin_year=2024-2025&source=national&Digest=0RtioxVlaSAYH8DQcE4P4Q'>MALKANGIRI</a>
+                    </td>
+                    <td align="right">
+                        118712
+                    </td>
+                    <td align="right">
+                        186521
+                    </td>
+                    <td align="right">
+                        7386
+                    </td>
+                    <td align="right">
+                        26388
+                    </td>
+                    <td align="right">
+                        9301
+                    </td>
+                    <td align="right">
+                        12656
+                    </td>
+                    <td align="right">
+                        27220
+                    </td>
+                    <td align="right">
+                        70946
+                    </td>
+                    <td align="right">
+                        19303
+                    </td>
+                    <td align="right">
+                        117469
+                    </td>
+                    <td align="right">
+                        70043
+                    </td>
+                    <td align="right">
+                        98178
+                    </td>
+                    <td align="right">
+                        69966
+                    </td>
+                    <td align="right">
+                        98059
+                    </td>
+                    <td align="right">
+                        61330
+                    </td>
+                    <td align="right">
+                        83790
+                    </td>
+                    <td align="right">
+                        3164706
+                    </td>
+                    <td align="right">
+                        3164706
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5949
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        330
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=MAYURBHANJ&district_code=2404&fin_year=2024-2025&source=national&Digest=JVPgFlpwhZUng/5WWeTFIw'>MAYURBHANJ</a>
+                    </td>
+                    <td align="right">
+                        446310
+                    </td>
+                    <td align="right">
+                        711251
+                    </td>
+                    <td align="right">
+                        30961
+                    </td>
+                    <td align="right">
+                        118814
+                    </td>
+                    <td align="right">
+                        24745
+                    </td>
+                    <td align="right">
+                        38054
+                    </td>
+                    <td align="right">
+                        40729
+                    </td>
+                    <td align="right">
+                        237758
+                    </td>
+                    <td align="right">
+                        160483
+                    </td>
+                    <td align="right">
+                        438970
+                    </td>
+                    <td align="right">
+                        226044
+                    </td>
+                    <td align="right">
+                        308749
+                    </td>
+                    <td align="right">
+                        225917
+                    </td>
+                    <td align="right">
+                        308530
+                    </td>
+                    <td align="right">
+                        191307
+                    </td>
+                    <td align="right">
+                        251472
+                    </td>
+                    <td align="right">
+                        8504677
+                    </td>
+                    <td align="right">
+                        8504677
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4920
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        364
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=NABARANGAPUR&district_code=2430&fin_year=2024-2025&source=national&Digest=v/aYw4sywijJxscGcQzKUw'>NABARANGAPUR</a>
+                    </td>
+                    <td align="right">
+                        216316
+                    </td>
+                    <td align="right">
+                        334575
+                    </td>
+                    <td align="right">
+                        7104
+                    </td>
+                    <td align="right">
+                        27304
+                    </td>
+                    <td align="right">
+                        15460
+                    </td>
+                    <td align="right">
+                        20293
+                    </td>
+                    <td align="right">
+                        32776
+                    </td>
+                    <td align="right">
+                        117010
+                    </td>
+                    <td align="right">
+                        63731
+                    </td>
+                    <td align="right">
+                        213517
+                    </td>
+                    <td align="right">
+                        102424
+                    </td>
+                    <td align="right">
+                        143508
+                    </td>
+                    <td align="right">
+                        102271
+                    </td>
+                    <td align="right">
+                        143258
+                    </td>
+                    <td align="right">
+                        87181
+                    </td>
+                    <td align="right">
+                        119094
+                    </td>
+                    <td align="right">
+                        4432477
+                    </td>
+                    <td align="right">
+                        4241884
+                    </td>
+                    <td align="right">
+                        190593
+                    </td>
+                    <td align="right">
+                        7053
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        189
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=NAYAGARH&district_code=2422&fin_year=2024-2025&source=national&Digest=fTCKOYunHVQidyfjqGr2SA'>NAYAGARH</a>
+                    </td>
+                    <td align="right">
+                        164423
+                    </td>
+                    <td align="right">
+                        319767
+                    </td>
+                    <td align="right">
+                        2506
+                    </td>
+                    <td align="right">
+                        21220
+                    </td>
+                    <td align="right">
+                        2289
+                    </td>
+                    <td align="right">
+                        4830
+                    </td>
+                    <td align="right">
+                        19503
+                    </td>
+                    <td align="right">
+                        11214
+                    </td>
+                    <td align="right">
+                        132911
+                    </td>
+                    <td align="right">
+                        163628
+                    </td>
+                    <td align="right">
+                        43552
+                    </td>
+                    <td align="right">
+                        67992
+                    </td>
+                    <td align="right">
+                        43442
+                    </td>
+                    <td align="right">
+                        67806
+                    </td>
+                    <td align="right">
+                        38613
+                    </td>
+                    <td align="right">
+                        58759
+                    </td>
+                    <td align="right">
+                        1394777
+                    </td>
+                    <td align="right">
+                        1394777
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        296
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=NUAPADA&district_code=2428&fin_year=2024-2025&source=national&Digest=+Sm3DXM+Z1Jx/fzjGzmWLw'>NUAPADA</a>
+                    </td>
+                    <td align="right">
+                        102821
+                    </td>
+                    <td align="right">
+                        223028
+                    </td>
+                    <td align="right">
+                        5112
+                    </td>
+                    <td align="right">
+                        37062
+                    </td>
+                    <td align="right">
+                        6661
+                    </td>
+                    <td align="right">
+                        18169
+                    </td>
+                    <td align="right">
+                        13937
+                    </td>
+                    <td align="right">
+                        38335
+                    </td>
+                    <td align="right">
+                        48279
+                    </td>
+                    <td align="right">
+                        100551
+                    </td>
+                    <td align="right">
+                        77651
+                    </td>
+                    <td align="right">
+                        159887
+                    </td>
+                    <td align="right">
+                        77635
+                    </td>
+                    <td align="right">
+                        159842
+                    </td>
+                    <td align="right">
+                        64744
+                    </td>
+                    <td align="right">
+                        124948
+                    </td>
+                    <td align="right">
+                        4672020
+                    </td>
+                    <td align="right">
+                        3632955
+                    </td>
+                    <td align="right">
+                        1039065
+                    </td>
+                    <td align="right">
+                        15655
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        757
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=PURI&district_code=2413&fin_year=2024-2025&source=national&Digest=7XXTe7/lbKkNbNvEpXh6Qw'>PURI</a>
+                    </td>
+                    <td align="right">
+                        212233
+                    </td>
+                    <td align="right">
+                        400517
+                    </td>
+                    <td align="right">
+                        1292
+                    </td>
+                    <td align="right">
+                        17181
+                    </td>
+                    <td align="right">
+                        19159
+                    </td>
+                    <td align="right">
+                        34770
+                    </td>
+                    <td align="right">
+                        34663
+                    </td>
+                    <td align="right">
+                        1053
+                    </td>
+                    <td align="right">
+                        172393
+                    </td>
+                    <td align="right">
+                        208109
+                    </td>
+                    <td align="right">
+                        41653
+                    </td>
+                    <td align="right">
+                        65650
+                    </td>
+                    <td align="right">
+                        41422
+                    </td>
+                    <td align="right">
+                        65254
+                    </td>
+                    <td align="right">
+                        36180
+                    </td>
+                    <td align="right">
+                        55524
+                    </td>
+                    <td align="right">
+                        1018050
+                    </td>
+                    <td align="right">
+                        1018050
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        226
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        81
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=RAYAGADA&district_code=2429&fin_year=2024-2025&source=national&Digest=xy1PgY9rT3vvvl0Nj55S9w'>RAYAGADA</a>
+                    </td>
+                    <td align="right">
+                        162274
+                    </td>
+                    <td align="right">
+                        251553
+                    </td>
+                    <td align="right">
+                        5598
+                    </td>
+                    <td align="right">
+                        19982
+                    </td>
+                    <td align="right">
+                        16434
+                    </td>
+                    <td align="right">
+                        22023
+                    </td>
+                    <td align="right">
+                        26005
+                    </td>
+                    <td align="right">
+                        93449
+                    </td>
+                    <td align="right">
+                        33850
+                    </td>
+                    <td align="right">
+                        153304
+                    </td>
+                    <td align="right">
+                        88985
+                    </td>
+                    <td align="right">
+                        126984
+                    </td>
+                    <td align="right">
+                        88854
+                    </td>
+                    <td align="right">
+                        126718
+                    </td>
+                    <td align="right">
+                        73433
+                    </td>
+                    <td align="right">
+                        101485
+                    </td>
+                    <td align="right">
+                        3525896
+                    </td>
+                    <td align="right">
+                        3481155
+                    </td>
+                    <td align="right">
+                        44741
+                    </td>
+                    <td align="right">
+                        5549
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        373
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=SAMBALPUR&district_code=2401&fin_year=2024-2025&source=national&Digest=eAj4s0gVU24vUT2b7PVdaw'>SAMBALPUR</a>
+                    </td>
+                    <td align="right">
+                        119589
+                    </td>
+                    <td align="right">
+                        201830
+                    </td>
+                    <td align="right">
+                        4636
+                    </td>
+                    <td align="right">
+                        20914
+                    </td>
+                    <td align="right">
+                        4387
+                    </td>
+                    <td align="right">
+                        7185
+                    </td>
+                    <td align="right">
+                        18946
+                    </td>
+                    <td align="right">
+                        55380
+                    </td>
+                    <td align="right">
+                        43964
+                    </td>
+                    <td align="right">
+                        118290
+                    </td>
+                    <td align="right">
+                        54681
+                    </td>
+                    <td align="right">
+                        81349
+                    </td>
+                    <td align="right">
+                        54625
+                    </td>
+                    <td align="right">
+                        81281
+                    </td>
+                    <td align="right">
+                        45442
+                    </td>
+                    <td align="right">
+                        65448
+                    </td>
+                    <td align="right">
+                        1896974
+                    </td>
+                    <td align="right">
+                        1896974
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1499
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        110
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=SONEPUR&district_code=2427&fin_year=2024-2025&source=national&Digest=3Ez4AuEKS9AWmPXex0Aqjw'>SONEPUR</a>
+                    </td>
+                    <td align="right">
+                        119924
+                    </td>
+                    <td align="right">
+                        200430
+                    </td>
+                    <td align="right">
+                        3640
+                    </td>
+                    <td align="right">
+                        13936
+                    </td>
+                    <td align="right">
+                        4584
+                    </td>
+                    <td align="right">
+                        8083
+                    </td>
+                    <td align="right">
+                        24769
+                    </td>
+                    <td align="right">
+                        9992
+                    </td>
+                    <td align="right">
+                        83950
+                    </td>
+                    <td align="right">
+                        118711
+                    </td>
+                    <td align="right">
+                        39390
+                    </td>
+                    <td align="right">
+                        56073
+                    </td>
+                    <td align="right">
+                        39339
+                    </td>
+                    <td align="right">
+                        55979
+                    </td>
+                    <td align="right">
+                        34767
+                    </td>
+                    <td align="right">
+                        48214
+                    </td>
+                    <td align="right">
+                        1415565
+                    </td>
+                    <td align="right">
+                        1415565
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        615
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        47
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='demregister.aspx?lflag=eng&page=D&state_name=ODISHA&state_code=24&district_name=SUNDARGARH&district_code=2402&fin_year=2024-2025&source=national&Digest=0p14acFFwd0hJ9j+OKkWLQ'>SUNDARGARH</a>
+                    </td>
+                    <td align="right">
+                        246965
+                    </td>
+                    <td align="right">
+                        387948
+                    </td>
+                    <td align="right">
+                        17252
+                    </td>
+                    <td align="right">
+                        57522
+                    </td>
+                    <td align="right">
+                        17587
+                    </td>
+                    <td align="right">
+                        26567
+                    </td>
+                    <td align="right">
+                        20747
+                    </td>
+                    <td align="right">
+                        166397
+                    </td>
+                    <td align="right">
+                        55750
+                    </td>
+                    <td align="right">
+                        242894
+                    </td>
+                    <td align="right">
+                        157359
+                    </td>
+                    <td align="right">
+                        210468
+                    </td>
+                    <td align="right">
+                        157299
+                    </td>
+                    <td align="right">
+                        210376
+                    </td>
+                    <td align="right">
+                        143083
+                    </td>
+                    <td align="right">
+                        187156
+                    </td>
+                    <td align="right">
+                        7357147
+                    </td>
+                    <td align="right">
+                        7357147
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        10485
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        474
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        6054581
+                    </td>
+                    <td align="right">
+                        9995677
+                    </td>
+                    <td align="right">
+                        273757
+                    </td>
+                    <td align="right">
+                        1098451
+                    </td>
+                    <td align="right">
+                        442941
+                    </td>
+                    <td align="right">
+                        676215
+                    </td>
+                    <td align="right">
+                        932372
+                    </td>
+                    <td align="right">
+                        1630107
+                    </td>
+                    <td align="right">
+                        3370521
+                    </td>
+                    <td align="right">
+                        5933000
+                    </td>
+                    <td align="right">
+                        2351582
+                    </td>
+                    <td align="right">
+                        3460420
+                    </td>
+                    <td align="right">
+                        2347277
+                    </td>
+                    <td align="right">
+                        3453668
+                    </td>
+                    <td align="right">
+                        2026964
+                    </td>
+                    <td align="right">
+                        2898589
+                    </td>
+                    <td align="right">
+                        93911597
+                    </td>
+                    <td align="right">
+                        89909777
+                    </td>
+                    <td align="right">
+                        4001820
+                    </td>
+                    <td align="right">
+                        136665
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9757
+                    </td>
+                </tr>
+            
+                </table>
+            
